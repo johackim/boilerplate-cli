@@ -1,10 +1,25 @@
 Boilerplate cli
 ===
 
-A simple boilerplate to running node cli apps with ES6.
+> A simple boilerplate to running node cli apps with ES6.
 
-Start
+Install
 ---
 
-- `npm install`
-- `npm start`
+```bash
+$ npm install
+```
+
+Usage
+---
+
+```bash
+$ npm start
+```
+
+License
+---
+
+MIT
+
+**Free Software, Hell Yeah!**
